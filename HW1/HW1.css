@@ -15,28 +15,31 @@ span {
 }
 
 .pt2 {
-	border: solid 1px black;
+	position: relative;
 	margin: 10px;
-	width: 750px;
+	width: 900px;
+	
 }
 
 .left {
-	float: left;
+	left: 0;
 	width: 30%;
 	padding: 10px;
+	position: absolute;
 }
 
 .middle {
-	float: left;
+	left: 33%;
 	width: 30%;
 	padding: 10px;
+	position: absolute;
 }
 
 .right {
-
-	float: right;
+	right: 0;
 	width: 30%;
 	padding: 10px;
+	position: absolute;
 }
 
 h1 {
@@ -48,15 +51,32 @@ h1 {
 	font-family: 'Alegreya Sans';
 }
 
-.Lor {
-	font-family: 'Lora';
+
+.Lat {
+	font-family: 'Lato';
 }
 
-.Rob {
-	font-family: 'Roboto';
+.Lor {
+	font-family: 'Lora';
 }
 
 p {
 	font-size: 11px;
 	margin-bottom: 30px;
 }
+
+.lineOne {
+	position: absolute;
+	border-bottom: solid 1px red; 
+	padding-top: 70px;
+	width: 900px;
+}
+
+.lineTwo {
+	position: absolute;
+	border-bottom: solid 1px red; 
+	padding-top: 521px;
+	width: 900px;
+}
+
+
