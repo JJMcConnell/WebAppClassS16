@@ -1,8 +1,9 @@
 
 
-p {
+.pt1 {
 	font-family: 'Alegreya Sans';  
 	font-size: 300pt;
+	margin: 0;
 }
 
 span {
@@ -11,4 +12,51 @@ span {
 
 .adjust {
 	font-size-adjust: 0.460;
+}
+
+.pt2 {
+	border: solid 1px black;
+	margin: 10px;
+	width: 750px;
+}
+
+.left {
+	float: left;
+	width: 30%;
+	padding: 10px;
+}
+
+.middle {
+	float: left;
+	width: 30%;
+	padding: 10px;
+}
+
+.right {
+
+	float: right;
+	width: 30%;
+	padding: 10px;
+}
+
+h1 {
+	margin: 0;
+	font-size: 150pt;
+}
+
+.Ale {
+	font-family: 'Alegreya Sans';
+}
+
+.Lor {
+	font-family: 'Lora';
+}
+
+.Rob {
+	font-family: 'Roboto';
+}
+
+p {
+	font-size: 11px;
+	margin-bottom: 30px;
 }
