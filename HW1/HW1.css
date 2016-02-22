@@ -1,0 +1,14 @@
+
+
+p {
+	font-family: 'Alegreya Sans';  
+	font-size: 300pt;
+}
+
+span {
+	border: solid 1px red;
+}
+
+.adjust {
+	font-size-adjust: 0.460;
+}
