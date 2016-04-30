@@ -1,0 +1,71 @@
+body	{
+	background-color: #d3d3d3; 
+}
+
+.wrapper {
+	position: relative;
+	width: 2000px;
+}
+
+h1	{
+	text-align:center; 
+	font-size: 3em;
+}
+			
+form	{
+	text-align:center;
+}
+			
+img	{
+	display: block; 
+	margin:0 auto; 
+	padding-bottom: 20px;
+}
+
+.upload {
+	position: absolute;
+	display: inline-block;
+	margin: 10px;
+	width: 50%;
+	left: 25%;
+}
+
+h2 {
+	text-align:center;
+}
+
+h3	{
+	position: absolute;
+	margin: 0;
+	width: 40%;
+	left: 5%;
+}
+
+#fileinput {
+	margin: 0;
+	position: absolute;
+	width: 30%;
+	right: 10%;
+}
+
+.popup {
+	display: none;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+
+#preview-panel {
+	margin: 5% auto;
+	width: 80%;
+	height: 80%;
+	border: 1px solid black;
+	background-color: white; 
+	overflow: scroll;
+
+}
+	
+
