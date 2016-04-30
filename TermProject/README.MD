@@ -6,7 +6,7 @@ Radio buttons are generated based on the content of the database, when one of th
 
 ##The Page Initially
 
-! [alt text] (https://github.com/JJMcConnell/WebAppClassS16/blob/master/TermProject/ScreenShots/HomePage.PNG "Initial Page")
+![alt text] (https://github.com/JJMcConnell/WebAppClassS16/blob/master/TermProject/ScreenShots/HomePage.PNG "Initial Page")
 
 ##View for uploading multiple files
 
